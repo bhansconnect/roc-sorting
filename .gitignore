@@ -2,3 +2,12 @@ roc-mergesort
 roc-builtinsort
 cc-quadsort
 cc-fluxsort
+raw-builtin
+zig-raw-builtinsort
+
+profile.json
+*.svg
+*.ll
+*.o
+.envrc
+.direnv
